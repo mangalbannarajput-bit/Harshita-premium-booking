@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Harshita Tour & Travels</title>
+
+<style>
+*{box-sizing:border-box}
+
+body{
+margin:0;
+font-family:Arial,sans-serif;
+min-height:100vh;
+background:linear-gradient(135deg,#fff7df,#f5c45f);
+display:flex;
+justify-content:center;
+align-items:center;
+padding:18px;
+}
+
+.card{
+width:100%;
+max-width:520px;
+background:#fff;
+border-radius:28px;
+padding:28px 22px;
+text-align:center;
+box-shadow:0 15px 40px rgba(0,0,0,.20);
+}
+
+.logo{
+font-size:60px;
+}
+
+.brand{
+font-size:28px;
+font-weight:900;
+color:#9d2900;
+margin-top:8px;
+}
+
+.tagline{
+font-size:16px;
+font-weight:bold;
+color:#8a5c00;
+margin:8px 0 25px;
+}
+
+.badge{
+display:inline-block;
+background:#fff1cf;
+color:#9d2900;
+padding:8px 14px;
+border-radius:30px;
+font-weight:bold;
+margin-bottom:18px;
+}
+
+.btn{
+display:block;
+text-decoration:none;
+color:white;
+font-size:18px;
+font-weight:900;
+padding:17px;
+margin:14px 0;
+border-radius:17px;
+box-shadow:0 6px 15px rgba(0,0,0,.15);
+}
+
+.booking{
+background:linear-gradient(90deg,#159447,#087a35);
+}
+
+.info{
+margin-top:22px;
+background:#fff8e8;
+border-radius:18px;
+padding:17px;
+line-height:1.7;
+color:#5d4325;
+}
+
+.footer{
+margin-top:22px;
+font-size:13px;
+color:#765b45;
+}
+
+.contact{
+margin-top:16px;
+font-weight:bold;
+color:#9d2900;
+}
+</style>
+</head>
+
+<body>
+
+<div class="card">
+
+<div class="logo">🚍</div>
+
+<div class="brand">
+HARSHITA TOUR & TRAVELS
+</div>
+
+<div class="tagline">
+आपकी यात्रा, हमारी जिम्मेदारी ❤️
+</div>
+
+<div class="badge">
+🎫 PREMIUM BOOKING SYSTEM
+</div>
+
+<a class="btn booking" href="./booking-link-generator.html">
+🔗 BOOKING CONFIRMATION LINK बनाएं
+</a>
+
+<div class="info">
+<b>हमारी सेवाएँ</b><br>
+धार्मिक यात्रा • स्थानीय Booking<br>
+शादी / पार्टी Booking • पिकनिक एवं टूर<br>
+सुरक्षित • आरामदायक • भरोसेमंद सेवा
+</div>
+
+<div class="contact">
+📞 Booking एवं जानकारी के लिए संपर्क करें
+</div>
+
+<div class="footer">
+© 2026 Harshita Tour & Travels<br>
+आपकी यात्रा, हमारी जिम्मेदारी ❤️
+</div>
+
+</div>
+
+</body>
+</html>
